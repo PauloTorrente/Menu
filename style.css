@@ -1,8 +1,15 @@
-span.negrita {
-    font-style: oblique;
+body {
+    background-color: wheat;
 }
-h1.titulo {
-    text-align: center;
-    font-style: italic;
-    background-color: burlywood;
+header {
+    color: brown;
+}
+ul.circuloBlanco {
+    list-style: circle;
+}
+ol.romano {
+    list-style-type: upper-roman;
+}
+ol.abclower {
+    list-style-type: lower-alpha;
 }
